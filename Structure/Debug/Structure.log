@@ -1,0 +1,16 @@
+﻿cl : 命令行 warning D9035: “clr:pure”选项已否决，并将在将来的版本中移除
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: “System::Security::Permissions::SecurityAction::RequestMinimum”: 标记为已过时
+  AssemblyInfo.cpp(40): note: 消息: “Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.”
+  Structure.cpp
+c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(62): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(63): error C2440: “初始化”: 无法从“System::Drawing::Pen ^”转换为“bool”
+  c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(63): note: 没有用户定义的转换运算符，或者
+  c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(63): note: 没有使该转换得以执行的上下文
+c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(63): error C2439: “Structure::Form1::MoveComplete”: 未能初始化成员
+  c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(68): note: 参见“Structure::Form1::MoveComplete”的声明
+c:\users\xiaoq\source\workspaces\a\structure\structure\Form1.h(890): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+  “C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe”中的内部编译器错误
+    请选择 Visual C++ 
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息
